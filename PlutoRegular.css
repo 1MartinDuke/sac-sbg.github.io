@@ -1,0 +1,8 @@
+* Pluto Regular */
+@font-face {
+font-family: 'Pluto';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://sac-sbg.github.io/PlutoMedium.otf) format('opentype');
+}
